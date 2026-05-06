@@ -19,6 +19,11 @@
 
 # 🧠 whoami
 
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
 ```python
 class SahilGupta:
 
@@ -74,6 +79,33 @@ class SahilGupta:
 me = SahilGupta()
 ```
 
+</td>
+
+<td width="45%" align="center">
+
+<img 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16cnV4YmF4eGJhaDdseG13bGRpb3E0OGNsN2xhMnNtYWt6emR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
+width="100%"
+/>
+
+<br><br>
+
+<img 
+src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"
+width="100%"
+/>
+
+<br><br>
+
+<img 
+src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"
+width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # ⚔️ About Me
