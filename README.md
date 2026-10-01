@@ -1,296 +1,275 @@
-# ⚡ SAHIL GUPTA
+<div align="center">
 
-### Full-Stack Developer • Hackathon Builder • Rapid Prototyper
+<img src="https://raw.githubusercontent.com/KingSahil/KingSahil/main/assets/hero.svg" width="100%" alt="Sahil Gupta, full-stack developer, AI tools and desktop automation"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+build+things+fast.;Hackathons+are+my+battlefield.;Full-stack+developer+from+India.;React+%7C+Node.js+%7C+Firebase.;Turning+ideas+into+products+🚀" />
+**I build AI tools and full-stack products, and I ship them at hackathons.**
 
-<br>
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge\&logo=linkedin\&logoColor=blue)](https://linkedin.com/in/kingsahil)
-[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge\&logo=instagram)](https://instagram.com/supreme__sahil)
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github)](https://github.com/kingsahil)
+<sub>web apps · AI · desktop automation · hackathons</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/kingsahil">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://leetcode.com/u/ProSahil/">LeetCode</a>
+&nbsp;·&nbsp;
+<a href="https://sahilfolio.tech/">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/Sahil317405">X</a>
+&nbsp;·&nbsp;
+<a href="https://www.instagram.com/supreme__sahil">Instagram</a>
 
 </div>
 
 ---
 
-# 🧠 whoami
+## 01 / ABOUT
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="55%" valign="top">
+I am **Sahil Gupta**, a B.Tech Computer Science student at GNDU, Amritsar.
 
-```python
-class SahilGupta:
+I like building things end to end: the interface, the backend, and the part where it breaks and I have to fix it.
 
-    def __init__(self):
-        self.name = "Sahil Gupta"
-        self.location = "India 🇮🇳"
-        self.role = "Full-Stack Developer"
+My biggest project is **Blinky**, an AI desktop tutor and agent that won **HACKHAZARDS '26** and ranked #1 among 2,657 projects.
 
-        self.code = [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "C++",
-            "C"
-        ]
+I also lead **Tech Nerds Community** at GNDU and make short coding videos under **Immersive EdTech Content Creation**.
 
-        self.stack = {
-            "frontend": [
-                "React",
-                "Next.js",
-                "React Native"
-            ],
+<br/>
 
-            "backend": [
-                "Node.js",
-                "Express",
-                "FastAPI",
-                "Flask"
-            ],
+**Currently looking for**
 
-            "database": [
-                "MongoDB",
-                "PostgreSQL",
-                "MySQL",
-                "Firebase"
-            ]
-        }
+SDE roles and desktop automation roles.
 
-        self.interests = [
-            "Hackathons",
-            "Rapid Prototyping",
-            "Physics Simulations",
-            "Automation",
-            "UI/UX"
-        ]
+</td>
 
-        self.current_mission = (
-            "Building impactful products "
-            "and improving every day 🚀"
-        )
+<td width="42%" valign="top">
 
+```txt
+ROLE
+student / full-stack developer
 
-me = SahilGupta()
+FOCUS
+AI tools
+desktop automation
+
+INTERESTS
+hackathons
+rapid prototyping
+teaching what I learn
+physics simulations
+
+PRINCIPLE
+ship it
+fix what breaks
+explain it
 ```
 
 </td>
-
-<td width="45%" align="center">
-
-<img 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG16cnV4YmF4eGJhaDdseG13bGRpb3E0OGNsN2xhMnNtYWt6emR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
-width="100%"
-/>
-
-<br><br>
-
-<img 
-src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"
-width="100%"
-/>
-
-<br><br>
-
-<img 
-src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"
-width="100%"
-/>
-
-</td>
-
 </tr>
 </table>
----
-
-# ⚔️ About Me
-
-* 🚀 Built **10+ full-stack applications**
-* ⚡ Ship MVPs in **24–48 hours**
-* 🏆 Multiple **Top 10 Hackathon Finishes**
-* 🧠 Love combining **design + engineering**
-* 🎮 Exploring **physics simulations with Godot**
-* 📚 Currently learning:
-
-  * Advanced React
-  * DSA
-  * Scalable Backend Systems
 
 ---
 
-# 🛠️ Tech Arsenal
+## 02 / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### BLINKY
+
+**AI desktop tutor and agent · HACKHAZARDS '26 winner**
+
+Reads your screen with OCR and OmniParser, explains the next step and highlights the exact control. Agent Mode handles bounded desktop tasks, and a mobile companion app sends voice commands and files to the PC.
+
+`Tauri` `Rust` `React` `TypeScript` `Python` `Ollama`
+
+<a href="https://github.com/KingSahil/Blinky">GitHub</a> · <a href="https://blinkyy.vercel.app">Live</a>
+
+</td>
+<td width="50%" valign="top">
+
+### HIRINGMATES
+
+**AI technical hiring platform**
+
+Coding tests with plagiarism and AI-code checks, keystroke tracking and two-camera proctoring (laptop plus phone) so candidates cannot cheat by photographing the screen.
+
+`Next.js` `FastAPI` `Supabase` `MediaPipe` `Gemini`
+
+<a href="https://github.com/KingSahil/hiringmates">GitHub</a> · <a href="https://hiringmates.vercel.app/">Live</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### KIRANAKEEPER
+
+**Retailer and WhatsApp commerce platform**
+
+Shared inventory, orders and udhaar for small shops and wholesalers, with a WhatsApp ordering bot built on free open-source Baileys instead of the paid WhatsApp API.
+
+`React` `Firebase` `Node.js` `Baileys` `Groq`
+
+<a href="https://github.com/KingSahil/shopOS">GitHub</a> · <a href="https://kiranakeeper.web.app/">Live</a>
+
+</td>
+<td width="50%" valign="top">
+
+### SIGMA
+
+**Signal intelligence and modulation analyzer**
+
+A workstation that loads IQ and WAV recordings, estimates symbol rate, identifies the modulation, demodulates and extracts the bitstream.
+
+`GNU Radio` `PyQt5` `Python` `DSP`
+
+<a href="https://github.com/KingSahil/SIGMA">GitHub</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SMART ATTENDANCE
+
+**Geo-validated attendance system**
+
+Real-time Firebase backend and an analytics dashboard. Cut proxy attendance by 40%.
+
+`Firebase`
+
+<a href="https://gndu.vercel.app/">Live</a>
+
+</td>
+<td width="50%" valign="top">
+
+### PHYSICS EXPERIMENTS
+
+**Simulation and shaders**
+
+Liquid simulations and shader experiments with real-time interaction, built in Godot.
+
+`Godot`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / CAPABILITIES
 
 <div align="center">
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge\&logo=typescript)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge\&logo=cplusplus)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge\&logo=c)
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge\&logo=tailwindcss)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge\&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge\&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge\&logo=firebase)
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql)
+| AREA | TOOLS |
+|:---|:---|
+| LANGUAGES | C · C++ · Python · JavaScript · TypeScript · Rust |
+| FRONTEND | React · Next.js · React Native · Tailwind CSS |
+| BACKEND | Node.js · Express · FastAPI · Flask · REST APIs · WebSockets |
+| AI AND SYSTEMS | LLMs · Computer Vision · OCR · Desktop Automation · GNU Radio · DSP |
+| DATA | SQL · PostgreSQL · MongoDB · MySQL · Firestore · Supabase |
+| TOOLS | Git · GitHub · Docker · Vercel · Linux |
+| CORE | Data Structures and Algorithms · Problem Solving |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 📍 Smart Attendance System
-
-### Geo-validated attendance platform
-
-* 📉 Reduced proxy attendance by **40%**
-* ⚡ Real-time Firebase backend
-* 📊 Analytics dashboard
-* 🌍 Built for scalability
-
-🔗 [https://gndu.vercel.app/](https://gndu.vercel.app/)
-
----
-
-## 🛒 WhatsApp Kirana Keeper
-
-* 🤖 Automated kirana workflows
-* ⚡ Reduced manual work
-* 📱 WhatsApp-based workflow automation
-
-🔗 [https://kiranakeeper.web.app/](https://kiranakeeper.web.app/)
-
----
-
-## 🧪 Physics Simulation Experiments
-
-* 🌊 Liquid simulations
-* 🎮 Built with Godot Engine
-* ⚙️ Shader experiments
-* 🧠 Real-time interaction systems
-
----
-
-# 🏆 Achievements
-
-```diff
-+ 2nd Runner-Up — GDG Hackathon
-+ Top 10 — PEC Hacks 3.0 (MLH)
-+ Top 10 — HackMol 7.0 (NIT Jalandhar)
-+ Top 10 — Thapar Eclipse Hackathon
-+ Qualified — Smart India Hackathon (Internal)
-+ Consistent LeetCode Problem Solving
-```
-
----
-
-# 📈 GitHub Stats
+## 04 / PROOF OF WORK
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kingsahil\&show_icons=true\&theme=tokyonight\&hide_border=true)
+**HACKHAZARDS '26 (NAMESPACE): 1ST PLACE**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kingsahil\&theme=tokyonight\&hide_border=true)
+<sub>Blinky, ranked #1 among 2,657 projects</sub>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsahil\&layout=compact\&theme=tokyonight\&hide_border=true)
+<br/>
+
+**GDG HACKATHON: 2ND RUNNER-UP**
+
+<br/>
+
+**TOP 10:** PEC HACKS 3.0 (MLH) · HACKMOL 7.0 (NIT JALANDHAR) · THAPAR ECLIPSE
+
+<br/>
+
+<sub>Qualified for Smart India Hackathon (internal round) · CS50x, Harvard University</sub>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 05 / GITHUB
 
 <div align="center">
 
-![snake gif](https://github.com/kingsahil/kingsahil/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=KingSahil&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=777777" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingSahil&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=777777" height="170" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingSahil&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=777777&sideLabels=777777&dates=777777&currStreakNum=777777&sideNums=777777" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-# ⚡ Current Focus
+## 06 / CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KingSahil/KingSahil/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution snake"/>
+
+</div>
+
+---
+
+## 07 / CURRENTLY
 
 ```yaml
-Learning:
-  - Advanced React
-  - Backend Architecture
-  - DSA
-  - System Design
+building:
+  - Blinky
+  - AI tools
+  - desktop automation
 
-Building:
-  - Full-stack products
-  - Physics simulations
-  - Automation tools
+learning:
+  - data structures and algorithms
+  - advanced React
+  - scalable backend systems
+  - system design
 
-Goals:
-  - Win bigger hackathons
-  - Become elite at engineering
-  - Build impactful products
+goals:
+  - win bigger hackathons
+  - land an SDE role
 ```
 
 ---
 
-# 🧩 Fun Facts
-
-* ⚡ I love building under pressure
-* 🧠 Hackathons feel like multiplayer coding games
-* 🎨 I enjoy both design and development
-* 🚀 I care more about shipping than perfection
-* ☕ Most bugs disappear after midnight
-
----
-
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://linkedin.com/in/kingsahil">
-  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=blue" />
-</a>
+<a href="https://www.linkedin.com/in/kingsahil">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/KingSahil?tab=repositories">Repositories</a>
+&nbsp;·&nbsp;
+<a href="https://sahilfolio.tech/">Portfolio</a>
 
-<a href="https://instagram.com/supreme__sahil">
-  <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
-</a>
+<br/><br/>
 
-<a href="https://github.com/kingsahil">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-# ⚡ Philosophy
-
-> “Ideas are cheap. Shipping is everything.”
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-
-### thanks for visiting 🚀
+<sub>Ideas are cheap. Shipping is everything.</sub>
 
 </div>
