@@ -22,6 +22,8 @@
 &nbsp;·&nbsp;
 <a href="https://sahilfolio.tech/">Portfolio</a>
 &nbsp;·&nbsp;
+<a href="https://www.youtube.com/godsahil">YouTube</a>
+&nbsp;·&nbsp;
 <a href="https://x.com/Sahil317405">X</a>
 &nbsp;·&nbsp;
 <a href="https://www.instagram.com/supreme__sahil">Instagram</a>
@@ -163,7 +165,9 @@ Real-time Firebase backend and an analytics dashboard. Cut proxy attendance by 4
 
 Liquid simulations and shader experiments with real-time interaction, built in Godot.
 
-`Godot`
+`Godot` `GDScript`
+
+<a href="https://github.com/KingSahil/the-science-lab">GitHub</a>
 
 </td>
 </tr>
@@ -223,7 +227,7 @@ Liquid simulations and shader experiments with real-time interaction, built in G
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingSahil&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=777777&sideLabels=777777&dates=777777&currStreakNum=777777&sideNums=777777" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=KingSahil&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=777777&sideLabels=777777&dates=777777&currStreakNum=777777&sideNums=777777" alt="GitHub streak"/>
 
 </div>
 
