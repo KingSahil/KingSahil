@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Sahil's animated developer workspace</title>
-<desc id="desc">A warm illustrated developer desk with a laptop, phone, robot, books, plants, coffee and a cat.</desc>
+<title id="title">Sahil — AI Automation Engineer</title>
+<desc id="desc">A warm illustrated developer desk with Sahil's name and AI Automation Engineer title on the laptop, plus a phone, robot, books, plants, coffee and a cat.</desc>
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#FFF0D4"/>
@@ -94,15 +94,15 @@
     <rect x="451" y="168" width="49" height="7" rx="3"/><rect x="451" y="187" width="67" height="7" rx="3"/>
     <rect x="451" y="206" width="53" height="7" rx="3"/><rect x="451" y="225" width="71" height="7" rx="3"/>
   </g>
+  <text x="570" y="154" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#FFF8E7">Sahil</text>
+  <text x="570" y="179" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#F9D35D">AI Automation Engineer</text>
   <g>
-    <rect x="570" y="130" width="102" height="8" rx="4" fill="#61B7F5"/>
-    <rect x="680" y="130" width="70" height="8" rx="4" fill="#F39A6B"/>
-    <rect x="570" y="152" width="164" height="8" rx="4" fill="#B9E487"/>
-    <rect x="570" y="174" width="122" height="8" rx="4" fill="#F9D35D"/>
-    <rect x="570" y="196" width="176" height="8" rx="4" fill="#61B7F5"/>
-    <rect x="570" y="218" width="138" height="8" rx="4" fill="#C38AE8"/>
-    <rect x="570" y="240" width="92" height="8" rx="4" fill="#F39A6B"/>
-    <rect x="665" y="240" width="7" height="12" fill="#F9D35D">
+    <rect x="570" y="202" width="92" height="7" rx="3" fill="#61B7F5"/>
+    <rect x="672" y="202" width="66" height="7" rx="3" fill="#F39A6B"/>
+    <rect x="570" y="222" width="154" height="7" rx="3" fill="#B9E487"/>
+    <rect x="570" y="242" width="118" height="7" rx="3" fill="#61B7F5"/>
+    <rect x="570" y="262" width="86" height="7" rx="3" fill="#C38AE8"/>
+    <rect x="660" y="262" width="7" height="12" fill="#F9D35D">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
