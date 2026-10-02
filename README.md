@@ -42,7 +42,7 @@ A signal intelligence and DSP project for working with IQ and WAV recordings, ex
 **[HiringMates](https://github.com/KingSahil/hiringmates)**  
 A technical hiring and assessment platform built around coding tests, proctoring, plagiarism and AI-code detection, and multiplayer coding.
 
-**KiranaKeeper**  
+**[KiranaKeeper](https://github.com/KingSahil/shopos)**  
 A small-retailer platform for inventory, orders, udhaar, and WhatsApp commerce.
 
 **[GNDU Attendance System](https://gndu.vercel.app/)**  
