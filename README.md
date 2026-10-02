@@ -4,8 +4,6 @@
 
 </div>
 
-# Sahil
-
 > I build AI tools, desktop automation, and whatever sounds fun enough to break.
 
 B.Tech CSE student at GNDU, Amritsar.
