@@ -1,41 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
-<title id="t">Sahil Gupta — engineer, builder, professional idea overthinker</title>
-<desc id="d">A warm hand-drawn personal profile header for Sahil Gupta, focused on AI tools and desktop automation.</desc>
-<rect width="1200" height="420" rx="22" fill="#FFF8E7"/>
-<g stroke="#222" stroke-width="2" opacity=".12">
-<path d="M0 44H1200M0 88H1200M0 132H1200M0 176H1200M0 220H1200M0 264H1200M0 308H1200M0 352H1200M0 396H1200"/>
-<path d="M44 0V420M88 0V420M132 0V420M176 0V420M220 0V420M264 0V420M308 0V420M352 0V420M396 0V420M440 0V420M484 0V420M528 0V420M572 0V420M616 0V420M660 0V420M704 0V420M748 0V420M792 0V420M836 0V420M880 0V420M924 0V420M968 0V420M1012 0V420M1056 0V420M1100 0V420M1144 0V420"/>
+<title id="t">Sahil Gupta — AI tools, desktop automation, and weird ideas</title>
+<desc id="d">A playful editorial profile header for Sahil Gupta with bold typography, stickers, and hand-drawn shapes.</desc>
+<rect width="1200" height="420" rx="24" fill="#FFF8E7"/>
+<g opacity=".25" fill="#222">
+<circle cx="24" cy="28" r="2"/><circle cx="48" cy="28" r="2"/><circle cx="72" cy="28" r="2"/><circle cx="96" cy="28" r="2"/><circle cx="120" cy="28" r="2"/>
+<circle cx="24" cy="52" r="2"/><circle cx="48" cy="52" r="2"/><circle cx="72" cy="52" r="2"/><circle cx="96" cy="52" r="2"/><circle cx="120" cy="52" r="2"/>
 </g>
-<g fill="#222">
-<circle cx="44" cy="32" r="6" fill="#FF5F57"/><circle cx="64" cy="32" r="6" fill="#FEBC2E"/><circle cx="84" cy="32" r="6" fill="#28C840"/>
-<text x="110" y="38" font-family="Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="3">SAHIL'S BUILD BOARD</text>
-<text x="1152" y="38" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="2">AMRITSAR · INDIA</text>
+<g stroke="#171717" stroke-width="3" fill="none">
+<path d="M0 60 C190 42 330 76 520 54 S930 36 1200 60"/>
+<path d="M0 61 C190 43 330 77 520 55 S930 37 1200 61" opacity=".12"/>
 </g>
-<text x="56" y="150" font-family="Arial Black, Arial, sans-serif" font-size="82" font-weight="900" letter-spacing="-2" fill="#171717">SAHIL</text>
-<text x="54" y="222" font-family="Arial Black, Arial, sans-serif" font-size="82" font-weight="900" letter-spacing="-2" fill="#FF4D00">GUPTA.</text>
-<g font-family="Arial, sans-serif" font-weight="900" font-size="16" letter-spacing="1">
-<g transform="translate(650 100) rotate(-3)">
-<rect width="285" height="52" rx="26" fill="#151515" stroke="#151515" stroke-width="3"/>
-<text x="142" y="33" text-anchor="middle" fill="#FFF8E7">ENGINEER + BUILDER</text></g>
-<g transform="translate(625 170) rotate(2)">
-<rect width="395" height="55" rx="28" fill="#F9E900" stroke="#151515" stroke-width="3"/>
-<text x="197" y="35" text-anchor="middle" fill="#151515">AI + DESKTOP AUTOMATION</text></g>
-<g transform="translate(650 242) rotate(-2)">
-<rect width="320" height="55" rx="28" fill="#B9FBC0" stroke="#151515" stroke-width="3"/>
-<text x="160" y="35" text-anchor="middle" fill="#151515">PROFESSIONAL IDEA OVERTHINKER</text></g>
+<g>
+<circle cx="54" cy="42" r="7" fill="#FF5F57"/><circle cx="78" cy="42" r="7" fill="#FEBC2E"/><circle cx="102" cy="42" r="7" fill="#28C840"/>
+<text x="128" y="48" font-family="Arial,sans-serif" font-size="13" font-weight="900" letter-spacing="3" fill="#171717">SAHIL'S BUILD BOARD</text>
+<text x="1140" y="48" text-anchor="end" font-family="ui-monospace,monospace" font-size="12" font-weight="800" letter-spacing="2" fill="#555">GNDU · CSE · AMRITSAR</text>
 </g>
-<text x="58" y="276" font-family="Georgia, serif" font-size="23" font-style="italic" fill="#222">I build AI tools, desktop automation, and whatever</text>
-<text x="58" y="304" font-family="Georgia, serif" font-size="23" font-style="italic" fill="#222">sounds fun enough to break.</text>
-<path d="M430 296 C470 270, 506 276, 545 300" fill="none" stroke="#222" stroke-width="3"/>
-<path d="M535 290 L548 301 L530 308" fill="none" stroke="#222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<g transform="translate(1010 286) rotate(5)">
-<rect width="138" height="84" rx="8" fill="#FFB4A2" stroke="#151515" stroke-width="3"/>
-<text x="16" y="28" font-family="Arial, sans-serif" font-size="11" font-weight="900" letter-spacing="1">CURRENTLY</text>
-<text x="16" y="50" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900">BUILDING</text>
-<text x="16" y="72" font-family="ui-monospace, monospace" font-size="14" font-weight="800">→ BLINKY</text></g>
-<g transform="translate(58 347)">
-<rect width="560" height="42" rx="21" fill="#151515"/>
-<text x="280" y="27" text-anchor="middle" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#FFF8E7">IDEA → CODE → BREAK → LEARN → SHIP → REPEAT</text>
+
+<text x="52" y="154" font-family="Arial Black,Arial,sans-serif" font-size="91" font-weight="900" letter-spacing="-4" fill="#151515">SAHIL</text>
+<text x="48" y="232" font-family="Arial Black,Arial,sans-serif" font-size="91" font-weight="900" letter-spacing="-4" fill="#FF4D00">GUPTA.</text>
+
+<g transform="translate(620 92) rotate(-3)">
+<rect width="250" height="54" rx="27" fill="#151515" stroke="#151515" stroke-width="3"/>
+<text x="125" y="35" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#FFF8E7">ENGINEER + BUILDER</text>
 </g>
-<text x="1140" y="392" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" font-weight="700" fill="#555">GNDU · CSE · 2025—29</text>
+<g transform="translate(590 155) rotate(2)">
+<rect width="392" height="58" rx="29" fill="#F9E900" stroke="#151515" stroke-width="3"/>
+<text x="196" y="37" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#151515">AI · DESKTOP AUTOMATION</text>
+</g>
+<g transform="translate(625 225) rotate(-2)">
+<rect width="335" height="58" rx="29" fill="#B9FBC0" stroke="#151515" stroke-width="3"/>
+<text x="167" y="37" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="900" letter-spacing="1" fill="#151515">PROFESSIONAL IDEA OVERTHINKER</text>
+</g>
+
+<text x="55" y="278" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#222">I build AI tools, desktop automation, and</text>
+<text x="55" y="307" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#222">whatever sounds fun enough to break.</text>
+
+<g transform="translate(1010 89)">
+<circle cx="78" cy="78" r="78" fill="#FFEA00" stroke="#151515" stroke-width="3"/>
+<path d="M40 94 Q78 55 116 94" stroke="#151515" stroke-width="4" fill="none"/>
+<circle cx="58" cy="72" r="5" fill="#151515"/><circle cx="98" cy="72" r="5" fill="#151515"/>
+</g>
+<g transform="translate(998 270) rotate(4)">
+<rect width="154" height="92" rx="10" fill="#FFB4A2" stroke="#151515" stroke-width="3"/>
+<text x="17" y="28" font-family="Arial,sans-serif" font-size="11" font-weight="900" letter-spacing="1">CURRENTLY</text>
+<text x="17" y="53" font-family="Arial Black,Arial,sans-serif" font-size="20" font-weight="900">BUILDING</text>
+<text x="17" y="76" font-family="ui-monospace,monospace" font-size="14" font-weight="900">→ BLINKY</text>
+</g>
+
+<g transform="translate(54 345) rotate(-2)">
+<rect width="420" height="42" rx="10" fill="#151515"/>
+<text x="210" y="28" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" font-weight="800" fill="#FFF8E7">IDEA → CODE → BREAK → LEARN → SHIP</text>
+</g>
+<path d="M487 365 C542 335 556 335 605 360" fill="none" stroke="#151515" stroke-width="3"/>
+<path d="M594 349 L608 359 L592 368" fill="none" stroke="#151515" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
