@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Sahil — AI tools and desktop automation"/>
+<img src="assets/profile-header.svg" width="100%" alt="Sahil — AI tools, desktop automation, and ambitious side quests"/>
 
 <br/>
 
