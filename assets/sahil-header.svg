@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Sahil's animated developer workspace</title>
+<desc id="desc">A warm illustrated developer desk with a laptop, phone, robot, books, plants, coffee and a cat.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFF0D4"/>
+    <stop offset="1" stop-color="#FFE0B2"/>
+  </linearGradient>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+    <feOffset dy="4"/>
+    <feComponentTransfer><feFuncA type="linear" slope=".14"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="420" rx="22" fill="#FFF8E7"/>
+<rect x="0" y="0" width="1200" height="292" fill="url(#sky)"/>
+
+<!-- window -->
+<rect x="835" y="24" width="330" height="244" rx="10" fill="#FFF4DF" stroke="#171717" stroke-width="4"/>
+<rect x="853" y="42" width="294" height="205" rx="4" fill="#75B9F5"/>
+<path d="M853 192 C910 150 952 178 1010 151 S1104 141 1147 171 V247 H853Z" fill="#DCEFFD"/>
+<path d="M853 202 C919 164 970 200 1030 172 S1110 167 1147 190 V247 H853Z" fill="#A9D8F8"/>
+<g fill="#F5B657" opacity=".82">
+  <rect x="874" y="148" width="24" height="57"/><rect x="902" y="132" width="38" height="73"/>
+  <rect x="946" y="155" width="23" height="50"/><rect x="976" y="126" width="41" height="79"/>
+  <rect x="1025" y="146" width="30" height="59"/><rect x="1060" y="119" width="26" height="86"/>
+  <rect x="1091" y="154" width="39" height="51"/>
+</g>
+<g fill="#4D8C4F">
+  <circle cx="887" cy="205" r="25"/><circle cx="927" cy="209" r="32"/><circle cx="1003" cy="210" r="29"/>
+  <circle cx="1067" cy="209" r="27"/><circle cx="1116" cy="211" r="32"/>
+</g>
+
+<!-- wall / shelf -->
+<rect x="0" y="24" width="320" height="244" fill="#F3A14F"/>
+<g fill="#171717" opacity=".35">
+  <circle cx="24" cy="42" r="2"/><circle cx="50" cy="42" r="2"/><circle cx="76" cy="42" r="2"/><circle cx="102" cy="42" r="2"/>
+  <circle cx="24" cy="70" r="2"/><circle cx="50" cy="70" r="2"/><circle cx="76" cy="70" r="2"/><circle cx="102" cy="70" r="2"/>
+  <circle cx="24" cy="98" r="2"/><circle cx="50" cy="98" r="2"/><circle cx="76" cy="98" r="2"/><circle cx="102" cy="98" r="2"/>
+</g>
+<rect x="36" y="98" width="66" height="58" rx="4" fill="#F8D36D" stroke="#171717" stroke-width="3"/>
+<rect x="116" y="118" width="54" height="50" rx="4" fill="#F7C1A6" stroke="#171717" stroke-width="3"/>
+<rect x="184" y="96" width="84" height="10" rx="5" fill="#8F552C"/>
+<rect x="188" y="106" width="72" height="9" rx="4" fill="#C87935"/>
+<!-- hanging plant -->
+<rect x="208" y="22" width="62" height="38" rx="4" fill="#6D4C41" stroke="#171717" stroke-width="3"/>
+<g fill="#4D8C4F" stroke="#171717" stroke-width="2">
+  <path d="M217 58 C205 76 209 97 224 112 C238 93 237 77 217 58Z"/>
+  <path d="M239 57 C229 83 239 104 255 114 C266 91 258 72 239 57Z"/>
+  <path d="M258 58 C253 83 264 97 280 104 C284 81 276 66 258 58Z"/>
+  <path d="M222 110 C217 133 228 149 244 158 C250 137 243 119 222 110Z"/>
+</g>
+
+<!-- desk -->
+<rect x="0" y="270" width="1200" height="150" fill="#E9782C"/>
+<rect x="0" y="270" width="1200" height="9" fill="#D55C19"/>
+<path d="M0 279 H1200 V420 H0Z" fill="#E98335" opacity=".62"/>
+
+<!-- books -->
+<g filter="url(#soft)">
+  <rect x="18" y="232" width="180" height="24" rx="5" fill="#182230" stroke="#171717" stroke-width="3"/>
+  <rect x="0" y="255" width="205" height="19" rx="4" fill="#31435B" stroke="#171717" stroke-width="3"/>
+  <rect x="8" y="218" width="176" height="18" rx="4" fill="#F4D9A5" stroke="#171717" stroke-width="3"/>
+</g>
+
+<!-- notebook -->
+<g transform="translate(18 322) rotate(-4)">
+  <rect width="195" height="76" rx="8" fill="#FFF4DA" stroke="#171717" stroke-width="3"/>
+  <path d="M25 18 H162 M25 34 H142 M25 50 H108" stroke="#B7A489" stroke-width="3" fill="none"/>
+</g>
+
+<!-- coffee -->
+<g transform="translate(222 286)">
+  <ellipse cx="54" cy="75" rx="56" ry="12" fill="#A35424" opacity=".32"/>
+  <path d="M12 22 H94 V78 Q53 101 12 78Z" fill="#FFF4DE" stroke="#171717" stroke-width="3"/>
+  <path d="M94 37 C127 27 129 73 94 65" fill="none" stroke="#171717" stroke-width="5"/>
+  <path d="M36 12 C28 -2 46 -5 39 -20 M58 12 C50 -2 67 -5 60 -20" fill="none" stroke="#EEE" stroke-width="5" opacity=".7">
+    <animate attributeName="opacity" values=".25;.75;.25" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<!-- laptop shadow -->
+<ellipse cx="617" cy="394" rx="285" ry="16" fill="#7A3D1C" opacity=".28"/>
+<!-- laptop -->
+<g filter="url(#soft)">
+  <rect x="395" y="70" width="445" height="253" rx="18" fill="#18202C" stroke="#171717" stroke-width="4"/>
+  <rect x="416" y="91" width="403" height="208" rx="10" fill="#0B1017"/>
+  <rect x="435" y="110" width="98" height="168" rx="7" fill="#101823"/>
+  <rect x="548" y="110" width="250" height="168" rx="7" fill="#0D131D"/>
+  <g fill="#5D6B7E">
+    <rect x="451" y="130" width="58" height="7" rx="3"/><rect x="451" y="149" width="73" height="7" rx="3"/>
+    <rect x="451" y="168" width="49" height="7" rx="3"/><rect x="451" y="187" width="67" height="7" rx="3"/>
+    <rect x="451" y="206" width="53" height="7" rx="3"/><rect x="451" y="225" width="71" height="7" rx="3"/>
+  </g>
+  <g>
+    <rect x="570" y="130" width="102" height="8" rx="4" fill="#61B7F5"/>
+    <rect x="680" y="130" width="70" height="8" rx="4" fill="#F39A6B"/>
+    <rect x="570" y="152" width="164" height="8" rx="4" fill="#B9E487"/>
+    <rect x="570" y="174" width="122" height="8" rx="4" fill="#F9D35D"/>
+    <rect x="570" y="196" width="176" height="8" rx="4" fill="#61B7F5"/>
+    <rect x="570" y="218" width="138" height="8" rx="4" fill="#C38AE8"/>
+    <rect x="570" y="240" width="92" height="8" rx="4" fill="#F39A6B"/>
+    <rect x="665" y="240" width="7" height="12" fill="#F9D35D">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <circle cx="418" cy="82" r="6" fill="#FF5F57"/><circle cx="437" cy="82" r="6" fill="#FEBC2E"/><circle cx="456" cy="82" r="6" fill="#28C840"/>
+  <path d="M350 321 H890 L855 348 H385Z" fill="#B9C4D0" stroke="#171717" stroke-width="4"/>
+  <rect x="583" y="327" width="72" height="8" rx="4" fill="#6D7B88"/>
+</g>
+
+<!-- phone -->
+<g transform="translate(842 242) rotate(5)" filter="url(#soft)">
+  <rect width="94" height="156" rx="16" fill="#14181E" stroke="#171717" stroke-width="4"/>
+  <rect x="9" y="13" width="76" height="116" rx="9" fill="#101820"/>
+  <circle cx="47" cy="143" r="4" fill="#69737D"/>
+  <rect x="19" y="29" width="56" height="8" rx="4" fill="#61B7F5"/>
+  <circle cx="23" cy="52" r="4" fill="#28C840"/>
+  <rect x="32" y="48" width="35" height="6" rx="3" fill="#7D8995"/>
+  <rect x="19" y="68" width="56" height="23" rx="5" fill="#F9D35D"/>
+  <rect x="19" y="98" width="56" height="23" rx="5" fill="#FF6E32"/>
+  <circle cx="12" cy="84" r="4" fill="#F9D35D">
+    <animate attributeName="cx" values="12;17;12" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- robot -->
+<g transform="translate(948 270)" filter="url(#soft)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
+    <rect x="8" y="33" width="82" height="77" rx="20" fill="#FFF3D7" stroke="#171717" stroke-width="4"/>
+    <rect x="20" y="47" width="58" height="33" rx="12" fill="#15191F"/>
+    <circle cx="38" cy="64" r="5" fill="#FFF8E7"/><circle cx="61" cy="64" r="5" fill="#FFF8E7"/>
+    <path d="M35 90 H64" stroke="#FF6E32" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="49" cy="23" r="7" fill="#FF6E32" stroke="#171717" stroke-width="3"/>
+    <path d="M49 32 V23 M8 58 L-7 50 M90 58 L105 50 M28 110 L21 128 M70 110 L77 128" stroke="#171717" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+</g>
+
+<!-- plant -->
+<g transform="translate(1040 250)">
+  <path d="M55 118 C42 79 45 42 62 4 M55 118 C69 78 84 47 109 24" stroke="#3C733E" stroke-width="6" fill="none"/>
+  <g fill="#4D8C4F" stroke="#171717" stroke-width="3">
+    <path d="M64 65 C30 54 20 28 28 6 C57 17 70 34 64 65Z"/>
+    <path d="M79 54 C93 24 111 11 126 14 C123 40 108 55 79 54Z"/>
+    <path d="M56 96 C25 89 12 72 14 55 C40 59 54 74 56 96Z"/>
+    <path d="M75 87 C90 62 108 55 123 62 C111 88 95 94 75 87Z"/>
+  </g>
+  <path d="M22 116 Q73 100 126 116 L116 150 H33Z" fill="#D8B58A" stroke="#171717" stroke-width="3"/>
+</g>
+
+<!-- cat -->
+<g transform="translate(1083 329)">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0;2;0;-2;0" dur="5s" repeatCount="indefinite" additive="sum"/>
+    <ellipse cx="53" cy="37" rx="62" ry="31" fill="#F2A13B" stroke="#171717" stroke-width="4"/>
+    <circle cx="13" cy="26" r="29" fill="#F7B64F" stroke="#171717" stroke-width="4"/>
+    <path d="M-6 7 L-1 -17 L12 1 M26 3 L36 -17 L39 9" fill="#F7B64F" stroke="#171717" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M1 28 Q12 38 23 28" fill="none" stroke="#171717" stroke-width="3"/>
+    <circle cx="4" cy="23" r="3" fill="#171717"/><circle cx="22" cy="23" r="3" fill="#171717"/>
+    <path d="M-13 32 C-5 45 8 45 16 34" fill="#F38E7A" stroke="#171717" stroke-width="2"/>
+    <path d="M105 39 C143 13 145 67 114 69" fill="none" stroke="#F2A13B" stroke-width="18" stroke-linecap="round"/>
+    <path d="M105 39 C143 13 145 67 114 69" fill="none" stroke="#171717" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</g>
+
+<!-- drifting leaves -->
+<g fill="#5A9E55" stroke="#171717" stroke-width="2">
+  <path d="M770 55 C788 36 803 38 810 49 C799 64 785 65 770 55Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0;10 16;2 34;14 52" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M316 156 C329 139 343 139 349 150 C341 164 328 166 316 156Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-8 18;4 36;-3 54" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<!-- warm highlight -->
+<path d="M300 0 H1040 L820 275 H120 Z" fill="#FFF7DD" opacity=".18"/>
+</svg>
