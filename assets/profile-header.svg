@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Sahil — engineer, builder, desktop automation enthusiast</title>
+<desc id="d">A hand-crafted minimal terminal workstation showing Sahil building AI tools and desktop automation.</desc>
+<rect width="1200" height="360" rx="20" fill="#111318"/>
+<rect x="0" y="0" width="1200" height="5" fill="#22d3ee"/>
+<rect x="28" y="26" width="1144" height="308" rx="16" fill="#0d1117" stroke="#2a2f38"/>
+<circle cx="55" cy="51" r="6" fill="#ff5f57"/><circle cx="77" cy="51" r="6" fill="#febc2e"/><circle cx="99" cy="51" r="6" fill="#28c840"/>
+<text x="1128" y="56" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6e7681">~/sahil</text>
+
+<!-- terminal window -->
+<rect x="54" y="84" width="650" height="214" rx="12" fill="#0a0d12" stroke="#252b34"/>
+<text x="80" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#6e7681">$ whoami</text>
+<text x="80" y="153" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Sahil</text>
+<text x="80" y="184" font-family="Inter, Arial, sans-serif" font-size="18" fill="#22d3ee">AI tools · desktop automation · full-stack</text>
+<text x="80" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8b949e">$ cat current_project.txt</text>
+<text x="80" y="253" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c9d1d9">Blinky → see → think → act</text>
+<text x="80" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6e7681">$ ship --again</text>
+
+<!-- monitor -->
+<rect x="750" y="102" width="342" height="174" rx="12" fill="#151a21" stroke="#343b46"/>
+<rect x="770" y="122" width="302" height="132" rx="7" fill="#0b0f14"/>
+<rect x="785" y="137" width="272" height="18" rx="4" fill="#1b222c"/>
+<circle cx="796" cy="146" r="4" fill="#22d3ee"/>
+<text x="811" y="151" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">blinky / remote agent</text>
+
+<!-- tiny IDE -->
+<rect x="788" y="168" width="112" height="72" rx="5" fill="#111722"/>
+<rect x="905" y="168" width="140" height="72" rx="5" fill="#0f141b"/>
+<line x1="802" y1="182" x2="880" y2="182" stroke="#22d3ee" stroke-width="3"/>
+<line x1="802" y1="195" x2="864" y2="195" stroke="#586474" stroke-width="3"/>
+<line x1="802" y1="208" x2="874" y2="208" stroke="#586474" stroke-width="3"/>
+<line x1="919" y1="183" x2="1030" y2="183" stroke="#596574" stroke-width="3"/>
+<line x1="919" y1="197" x2="1010" y2="197" stroke="#596574" stroke-width="3"/>
+<line x1="919" y1="211" x2="1040" y2="211" stroke="#22d3ee" stroke-width="3"/>
+
+<!-- phone -->
+<rect x="1010" y="268" width="98" height="52" rx="11" fill="#171d26" stroke="#3b4350"/>
+<rect x="1022" y="278" width="74" height="31" rx="5" fill="#0b1017"/>
+<circle cx="1059" cy="313" r="2.8" fill="#6e7681"/>
+<path d="M1008 287 C966 267, 949 251, 934 235" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="6 6"/>
+<text x="1027" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#22d3ee">SEND TASK</text>
+
+<text x="80" y="319" font-family="Inter, Arial, sans-serif" font-size="17" fill="#8b949e">building ambitious things • shipping them • breaking them • learning</text>
+</svg>
