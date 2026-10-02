@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 <img width="100%" src="./assets/profile-header.svg" alt="Sahil Gupta — AI tools, desktop automation, and whatever sounds fun enough to break"/>
 
