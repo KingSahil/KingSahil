@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+<title id="t">Sahil's build desk</title>
+<desc id="d">Animated builder desk with laptop, Blinky agent, phone, notes, coffee, and developer tools.</desc>
+<style>.ink{stroke:#151515;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.ui{font-family:Arial,sans-serif}</style>
+<rect width="1200" height="380" rx="22" fill="#FFF8E7"/>
+<path d="M0 34 C120 54 220 12 340 34 S560 54 700 34 S920 14 1200 34" fill="none" stroke="#222" stroke-width="2" opacity=".12"/>
+<g class="ui" font-weight="900" letter-spacing="2" fill="#151515">
+<circle cx="42" cy="25" r="5" fill="#FF5F57"/><circle cx="61" cy="25" r="5" fill="#FEBC2E"/><circle cx="80" cy="25" r="5" fill="#28C840"/>
+<text x="101" y="30" font-size="12">SAHIL'S BUILD DESK</text><text x="600" y="30" text-anchor="middle" font-size="11" fill="#666">BUILD + BREAK + SHIP</text></g>
+<g transform="translate(45 78)">
+<text x="0" y="0" class="ui" font-size="12" font-weight="900" letter-spacing="2" fill="#666">THINK + REFUEL</text>
+<g transform="translate(20 20) rotate(-4)">
+<rect width="150" height="94" rx="7" fill="#F9E900" class="ink"/><path d="M128 0L150 22L128 22Z" fill="#FFD900" class="ink"/>
+<text x="15" y="27" class="ui" font-size="12" font-weight="900">NEXT SIDE QUEST</text><path d="M15 52H123M15 67H102M15 82H78" fill="none" class="ink"/></g>
+<g transform="translate(198 95)">
+<rect x="0" y="14" width="82" height="66" rx="12" fill="#FFB4A2" class="ink"/><path d="M82 27 C112 20, 116 64, 82 60" fill="none" class="ink"/>
+<rect x="14" y="30" width="54" height="31" rx="5" fill="#151515"/><text x="41" y="50" text-anchor="middle" class="ui" font-size="9" font-weight="900" fill="#FFF8E7">DEBUG</text><text x="41" y="61" text-anchor="middle" class="ui" font-size="8" font-weight="900" fill="#FF4D00">JUICE</text>
+<path d="M28 8 C21 -2, 37 -9, 30 -21M50 10 C43 0, 60 -7, 52 -20" fill="none" stroke="#999" stroke-width="3"/></g></g>
+
+<g transform="translate(330 48)">
+<text x="270" y="4" text-anchor="middle" class="ui" font-size="12" font-weight="900" letter-spacing="2" fill="#666">DESIGN + CODE</text>
+<rect x="66" y="26" width="410" height="220" rx="20" fill="#151B24" class="ink"/><rect x="86" y="47" width="370" height="178" rx="10" fill="#0B0F14"/>
+<circle cx="105" cy="66" r="6" fill="#F9E900"/><circle cx="123" cy="66" r="6" fill="#FF5F57"/><circle cx="141" cy="66" r="6" fill="#28C840"/>
+<text x="158" y="70" class="mono" font-size="11" font-weight="700" fill="#8B949E">blinky / agent</text>
+<text x="106" y="98" class="mono" font-size="12" fill="#FFB4A2">while (curiosity) {</text><text x="126" y="121" class="mono" font-size="12" fill="#B9FBC0">  build(idea);</text><text x="126" y="143" class="mono" font-size="12" fill="#B9FBC0">  break(everything);</text><text x="126" y="165" class="mono" font-size="12" fill="#B9FBC0">  learn();</text><text x="106" y="187" class="mono" font-size="12" fill="#FFB4A2">}</text><text x="106" y="210" class="mono" font-size="12" fill="#F9E900">return shipped;</text>
+<rect x="210" y="199" width="8" height="16" fill="#F9E900"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.45;0.9;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<path d="M0 245 H542 L505 275 H37 Z" fill="#FFB4A2" class="ink"/><rect x="245" y="251" width="55" height="7" rx="3.5" fill="#9AA7B4"/>
+<circle cx="500" cy="95" r="5" fill="#FF4D00"><animate attributeName="cy" values="95;88;95" dur="2.4s" repeatCount="indefinite"/></circle></g>
+
+<g transform="translate(885 82)">
+<text x="55" y="0" class="ui" font-size="12" font-weight="900" letter-spacing="2" fill="#666">BUILD + TEST</text>
+<g transform="translate(8 25) rotate(3)"><rect width="145" height="104" rx="7" fill="#A0C4FF" class="ink"/><text x="14" y="28" class="ui" font-size="12" font-weight="900">TODAY</text><text x="14" y="53" class="ui" font-size="15" font-weight="900">BUILD THE</text><text x="14" y="75" class="ui" font-size="15" font-weight="900" fill="#FF4D00">WEIRD IDEA</text><text x="14" y="95" class="mono" font-size="10" font-weight="700">DO IT ANYWAY.</text></g>
+<g transform="translate(170 78)"><g><animateTransform attributeName="transform" type="rotate" from="0 48 48" to="360 48 48" dur="9s" repeatCount="indefinite"/><circle cx="48" cy="48" r="27" fill="#F9E900" class="ink"/><path d="M48 7V22M48 74V89M7 48H22M74 48H89M19 19L30 30M66 66L77 77M77 19L66 30M30 66L19 77" class="ink" fill="none" stroke-width="8"/><circle cx="48" cy="48" r="11" fill="#FFF8E7" class="ink"/></g></g>
+<g transform="translate(0 148)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.2s" repeatCount="indefinite"/><rect x="15" y="40" width="78" height="78" rx="18" fill="#B9FBC0" class="ink"/><rect x="28" y="52" width="52" height="32" rx="10" fill="#151515"/><circle cx="44" cy="68" r="5" fill="#FFF8E7"/><circle cx="64" cy="68" r="5" fill="#FFF8E7"/><rect x="34" y="92" width="40" height="6" rx="3" fill="#FF4D00"/><path d="M54 40V25" class="ink" fill="none"/><circle cx="54" cy="20" r="6" fill="#FF4D00" class="ink"/><path d="M15 58L2 51M93 58L106 51M30 118L22 136M77 118L85 136" class="ink" fill="none"/><text x="54" y="157" text-anchor="middle" class="mono" font-size="10" font-weight="900">BLINKY</text></g></g>
+<g transform="translate(178 180) rotate(6)"><rect width="104" height="160" rx="18" fill="#151515" class="ink"/><rect x="10" y="16" width="84" height="118" rx="10" fill="#FFF8E7"/><circle cx="52" cy="146" r="4" fill="#777"/><text x="20" y="39" class="mono" font-size="9" font-weight="900" fill="#FF4D00">BLINKY</text><circle cx="23" cy="54" r="4" fill="#28C840"/><text x="34" y="57" class="ui" font-size="8" font-weight="900">CONNECTED</text><rect x="18" y="70" width="68" height="23" rx="5" fill="#F9E900"/><text x="52" y="85" text-anchor="middle" class="ui" font-size="8" font-weight="900">CONTROL PC</text><rect x="18" y="99" width="68" height="23" rx="5" fill="#FF4D00"/><text x="52" y="114" text-anchor="middle" class="ui" font-size="8" font-weight="900" fill="#FFF8E7">SEND TASK →</text></g>
+<path d="M178 245 C110 200, 78 170, 0 170" fill="none" stroke="#FF4D00" stroke-width="3" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.2s" repeatCount="indefinite"/></path></g>
+<rect x="32" y="317" width="1136" height="25" rx="12" fill="#FF4D00" class="ink"/>
+<g class="ui" font-weight="900" font-size="12" letter-spacing="1" fill="#151515"><text x="82" y="362">IDEAS NEED FUEL</text><text x="600" y="362" text-anchor="middle">TURN THOUGHTS INTO SOFTWARE</text><text x="1118" y="362" text-anchor="end">MAKE IT MOVE</text></g>
+</svg>
