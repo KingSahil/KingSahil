@@ -4,24 +4,23 @@
 
 <br/>
 
-<a href="https://github.com/KingSahil">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/kingsahil">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://sahilfolio.tech/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.youtube.com/godsahil">YouTube</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/Sahil317405">X</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/supreme__sahil">Instagram</a>
+<a href="https://sahilfolio.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kingsahil"><img src="https://img.shields.io/badge/LINKEDIN-222222?style=for-the-badge&logo=linkedin&logoColor=F9E900" alt="LinkedIn"/></a>
+<a href="mailto:sahilgupta2150@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-F9E900?style=for-the-badge&logo=gmail&logoColor=111111" alt="Say hello"/></a>
 
 </div>
 
 <br/>
 
-> B.Tech CSE @ GNDU  
-> I build stuff end to end — and then find out why it broke.
+<div align="center">
+<sub><b>B.Tech CSE @ GNDU · Amritsar · building in public</b></sub>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/builders-desk.svg" width="100%" alt="Animated illustration of Sahil's build desk: laptop, Blinky, ideas, coffee, and remote phone control"/>
+</div>
 
 ## what i'm about
 
