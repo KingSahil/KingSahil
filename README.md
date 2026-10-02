@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/sahil-header.webp" alt="Sahil's developer workspace header"/>
+<img width="100%" src="https://raw.githubusercontent.com/KingSahil/KingSahil/main/assets/sahil-header.webp" alt="Sahil's developer workspace header"/>
 
 </div>
 
