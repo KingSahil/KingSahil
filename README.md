@@ -1,133 +1,163 @@
-<div align="center">
+<div align="center>
 
-<img src="assets/profile-header.svg" width="100%" alt="Sahil — AI tools, desktop automation, and ambitious side quests"/>
+<img width="100%" src="./assets/profile-header.svg" alt="Sahil Gupta — AI tools, desktop automation, and whatever sounds fun enough to break"/>
 
-<br/>
+<br /><br />
 
-<a href="https://sahilfolio.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/kingsahil"><img src="https://img.shields.io/badge/LINKEDIN-222222?style=for-the-badge&logo=linkedin&logoColor=F9E900" alt="LinkedIn"/></a>
-<a href="mailto:sahilgupta2150@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-F9E900?style=for-the-badge&logo=gmail&logoColor=111111" alt="Say hello"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub><b>B.Tech CSE @ GNDU · Amritsar · building in public</b></sub>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="assets/builders-desk.svg" width="100%" alt="Animated illustration of Sahil's build desk: laptop, Blinky, ideas, coffee, and remote phone control"/>
-</div>
-
-## what i'm about
-
-I'm Sahil. I like building **AI tools, desktop automation, full-stack products, and random ideas that get way too ambitious**.
-
-The project I'm most obsessed with right now is **[Blinky](https://github.com/KingSahil/Blinky)** — an AI tutor + your PC on autopilot that can see your screen and do tasks for you.
-
-And yeah, it got a little out of hand.
-
-## proof i actually ship
-
-<div align="center">
-
-### 🏆 HACKHAZARDS '26
-**1st place · 2,657 projects**
-
-[View Blinky →](https://github.com/KingSahil/Blinky)
+<a href="https://sahilfolio.tech/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF4D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/kingsahil">
+  <img src="https://img.shields.io/badge/LINKEDIN-151515?style=for-the-badge&logo=linkedin&logoColor=F9E900" alt="LinkedIn"/>
+</a>
+<a href="mailto:sahilgupta2150@gmail.com">
+  <img src="https://img.shields.io/badge/SAY_HELLO-F9E900?style=for-the-badge&logo=gmail&logoColor=151515" alt="Say hello"/>
+</a>
+<a href="https://github.com/KingSahil?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-151515?style=for-the-badge&logo=github&logoColor=FFF8E7" alt="Projects"/>
+</a>
 
 </div>
 
-Not just another weekend demo. Blinky became a full desktop + mobile system with screen understanding, computer use, voice, video editing, remote control, and an IDE bridge.
+<br />
 
-## currently building
+<div align="center">
 
-### Blinky
+**B.Tech CSE @ GNDU · Amritsar · building in public**
 
-**AI tutor + your PC on autopilot.**
+</div>
 
-It can see what's on your screen, understand what you're trying to do, explain it, highlight the right thing, and — when you ask — actually do it.
+<br />
 
-The bit I care about most:
+<div align="center">
+
+<img width="100%" src="./assets/builders-desk.svg" alt="Sahil's build desk with code, coffee, Blinky and remote PC control"/>
+
+</div>
+
+---
+
+## hi, i'm sahil 👋
+
+I build **AI tools, desktop automation, full-stack products, and random ideas that get way too ambitious**.
+
+My main obsession right now is **[Blinky](https://github.com/KingSahil/Blinky)** — an AI tutor + your PC on autopilot that can see the screen and do tasks for you.
+
+The goal is simple:
+
+> make computers feel a little more like they understand what you're trying to do.
+
+---
+
+<div align="center">
+
+<img width="100%" src="./assets/proof.svg" alt="HackHazards 26 first place proof for Blinky"/>
+
+</div>
+
+---
+
+## the blinky thing
+
+Blinky started as a desktop AI idea and kept growing until it became a full system:
+
+`screen understanding` · `computer use` · `voice` · `video editing` · `web research` · `android companion`
+
+The part that still makes me go **"wait, this actually works"**:
 
 **phone → Blinky → PC / IDE**
 
-I can send a task from the companion app and control my desktop remotely, including IDE workflows.
+I can send a task from the companion app and use Blinky to control my computer remotely, including IDE workflows.
 
-~~~mermaid
-flowchart LR
-    P["📱 Phone"] -->|"authenticated connection"| B["⚡ Blinky"]
-    B --> V["👁️ See the screen"]
-    V --> R["🧠 Reason about context"]
-    R --> A["🖱️ Act on the PC"]
-    A --> I["💻 IDE / Apps"]
-~~~
+[GitHub ↗](https://github.com/KingSahil/Blinky) · [Website ↗](https://blinkyy.vercel.app) · [Demo ↗](https://youtu.be/CHFF9J_Jqgw)
 
-[GitHub](https://github.com/KingSahil/Blinky) · [Website](https://blinkyy.vercel.app) · [Demo](https://youtu.be/CHFF9J_Jqgw)
+---
 
-## stuff i've built
+<div align="center">
 
-**Blinky** — AI desktop tutoring, computer use, voice, video editing, remote PC control.
+<img width="100%" src="./assets/build-loop.svg" alt="Sahil's idea to ship build loop"/>
 
-**SIGMA** — IQ/WAV signal analysis, modulation identification, demodulation, and DSP workflows.
+</div>
 
-**HiringMates** — technical hiring and assessment platform with proctoring and anti-cheat systems.
+---
 
-**KiranaKeeper** — inventory, orders, udhaar, and WhatsApp commerce for small retailers.
+## things i've built
+
+### 🧠 [Blinky](https://github.com/KingSahil/Blinky)
+AI tutor + PC autopilot. Screen-aware guidance, computer use, voice, video editing, remote control.
+
+### 📡 [SIGMA](https://github.com/KingSahil/SIGMA)
+IQ/WAV signal intelligence: parameter extraction, modulation detection, demodulation and DSP.
+
+### 🧪 [HiringMates](https://github.com/KingSahil/hiringmates)
+A technical hiring and assessment platform with proctoring, anti-cheat systems and multiplayer coding.
+
+### 🛒 KiranaKeeper
+Retail + WhatsApp commerce for small shops: inventory, orders and udhaar.
 
 <details>
-<summary>more side quests ↘</summary>
+<summary><b>more side quests ↘</b></summary>
 
-- [GNDU Attendance System](https://gndu.vercel.app/) — attendance system I built around real campus constraints.
-- [the-science-lab](https://github.com/KingSahil/the-science-lab) — Godot physics and shader experiments.
-- [HandCam Fire](https://github.com/KingSahil/handcam-fire) — computer-vision experiment.
-- [ShikshaFlow](https://github.com/KingSahil/shikshaflow) — gamified education experiment.
-- A bunch of smaller things that probably should have been side projects and somehow became repositories.
+[GNDU Attendance System](https://gndu.vercel.app/) ·
+[the-science-lab](https://github.com/KingSahil/the-science-lab) ·
+[HandCam Fire](https://github.com/KingSahil/handcam-fire) ·
+[ShikshaFlow](https://github.com/KingSahil/shikshaflow)
+
+and a frankly unnecessary number of smaller experiments.
 
 </details>
 
-## things i use
+---
+
+## stuff i use
+
+<div align="center">
 
 `C++` `Python` `TypeScript` `Rust`  
 `React` `Next.js` `React Native` `Tauri`  
 `Node.js` `FastAPI` `Firebase` `PostgreSQL`  
 `FFmpeg` `GNU Radio` `Docker` `Linux`
 
+</div>
+
 Mostly interested in the messy intersection of **AI + software + systems + automation**.
+
+---
 
 ## rn
 
 ~~~yaml
-building:    Blinky
-learning:    DSA + system design + systems
-obsessing:   desktop agents
-breaking:    Linux / Wayland things
-goal:        build bigger things, ship faster, keep learning
+building:      Blinky
+learning:      DSA + system design + systems
+obsessing:     desktop agents
+breaking:      Linux / Wayland
+goal:          build bigger things and ship faster
 ~~~
+
+---
 
 ## beyond code
 
-I also run technical sessions, build with hackathon teams, and make coding/tech content.
+I run technical sessions, build with hackathon teams, and make coding/tech content.
 
 Basically:
 
-**learn something → build it → break it → fix it → show it to people**
+**learn → build → break → fix → ship → repeat**
 
 <div align="center">
 
-<br/>
+<br />
 
 <a href="https://github.com/KingSahil/Blinky">Blinky</a>
 &nbsp;·&nbsp;
 <a href="https://sahilfolio.tech/">Portfolio</a>
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/kingsahil">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.youtube.com/godsahil">YouTube</a>
 
-<br/><br/>
+<br /><br />
 
-<sub>ship it → break it → learn it → ship it again</sub>
+<sub>whatever sounds fun enough to break.</sub>
 
 </div>
