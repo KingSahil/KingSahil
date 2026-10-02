@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100%" src="./assets/sahil-header.webp" alt="Sahil's developer workspace header"/>
+
+</div>
+
 # Sahil
 
 > I build AI tools, desktop automation, and whatever sounds fun enough to break.
